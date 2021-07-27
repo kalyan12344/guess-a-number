@@ -50,10 +50,10 @@ check.addEventListener("click", function () {
     }
   }
   // if player doesnot enter any number
-  else {
-    message.textContent = "No number!";
-    document.body.style.backgroundColor = " orange";
-  }
+//   else {
+//     message.textContent = "No number!";
+//     document.body.style.backgroundColor = " orange";
+//   }
 });
 // to reset the values after clicking on again button
 document.querySelector(".again").addEventListener("click", function () {
