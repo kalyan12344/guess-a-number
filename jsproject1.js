@@ -49,7 +49,6 @@ check.addEventListener("click", function() {
         }
     }
 
-
 );
 // to reset the values after clicking on again button
 document.querySelector(".again").addEventListener("click", function() {
